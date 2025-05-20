@@ -16,6 +16,19 @@ Identificar padrões, tendências e insights relevantes sobre os acidentes, como
 
 - Seaborn
 
+**O que foi feito**
+- Limpeza e preparação dos dados
+
+- Análise de sazonalidade: acidentes por mês, dia da semana e faixa horária
+
+- Investigação do tipo de veículo envolvido e situação do veículo (em movimento, parado)
+
+- Estudo sobre os tipos de socorro acionados nos acidentes
+
+- Identificação e análise de outliers em colunas numéricas
+
+- Visualizações claras para facilitar o entendimento dos padrões
+
  **Principais análises e insights**
 
 - Sexta-feira é o dia com mais acidentes.
